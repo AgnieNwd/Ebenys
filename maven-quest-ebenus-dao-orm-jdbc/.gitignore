@@ -1,0 +1,6 @@
+target/
+WebContent/
+.idea/
+.settings/
+.classpath
+.project
